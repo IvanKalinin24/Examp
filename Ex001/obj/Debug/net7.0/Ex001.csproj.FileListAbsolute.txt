@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\bin\Debug\net7.0\Ex001.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\bin\Debug\net7.0\Ex001.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\bin\Debug\net7.0\Ex001.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\bin\Debug\net7.0\Ex001.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\bin\Debug\net7.0\Ex001.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\obj\Debug\net7.0\Ex001.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\obj\Debug\net7.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\obj\Debug\net7.0\Ex001.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\obj\Debug\net7.0\Ex001.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\obj\Debug\net7.0\Ex001.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\obj\Debug\net7.0\Ex001.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\obj\Debug\net7.0\refint\Ex001.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\obj\Debug\net7.0\Ex001.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\obj\Debug\net7.0\Ex001.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex001\obj\Debug\net7.0\ref\Ex001.dll
