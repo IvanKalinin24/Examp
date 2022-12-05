@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\bin\Debug\net7.0\Ex003_Testgitignor.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\bin\Debug\net7.0\Ex003_Testgitignor.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\bin\Debug\net7.0\Ex003_Testgitignor.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\bin\Debug\net7.0\Ex003_Testgitignor.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\bin\Debug\net7.0\Ex003_Testgitignor.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\obj\Debug\net7.0\Ex003_Testgitignor.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\obj\Debug\net7.0\Ex003_Testgitignor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\obj\Debug\net7.0\Ex003_Testgitignor.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\obj\Debug\net7.0\Ex003_Testgitignor.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\obj\Debug\net7.0\Ex003_Testgitignor.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\obj\Debug\net7.0\Ex003_Testgitignor.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\obj\Debug\net7.0\refint\Ex003_Testgitignor.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\obj\Debug\net7.0\Ex003_Testgitignor.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\obj\Debug\net7.0\Ex003_Testgitignor.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Ex003_Testgitignor\obj\Debug\net7.0\ref\Ex003_Testgitignor.dll

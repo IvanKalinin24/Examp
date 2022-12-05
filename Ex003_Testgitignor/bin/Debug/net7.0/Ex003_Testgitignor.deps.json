@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ex003_Testgitignor/1.0.0": {
+        "runtime": {
+          "Ex003_Testgitignor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex003_Testgitignor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
