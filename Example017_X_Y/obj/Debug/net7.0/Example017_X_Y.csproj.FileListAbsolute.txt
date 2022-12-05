@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\obj\Debug\net7.0\Example017_X_Y.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\obj\Debug\net7.0\Example017_X_Y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\obj\Debug\net7.0\Example017_X_Y.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\obj\Debug\net7.0\Example017_X_Y.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\obj\Debug\net7.0\Example017_X_Y.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\bin\Debug\net7.0\Example017_X_Y.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\bin\Debug\net7.0\Example017_X_Y.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\bin\Debug\net7.0\Example017_X_Y.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\bin\Debug\net7.0\Example017_X_Y.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\bin\Debug\net7.0\Example017_X_Y.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\obj\Debug\net7.0\Example017_X_Y.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\obj\Debug\net7.0\refint\Example017_X_Y.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\obj\Debug\net7.0\Example017_X_Y.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\obj\Debug\net7.0\Example017_X_Y.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example017_X_Y\obj\Debug\net7.0\ref\Example017_X_Y.dll
