@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\obj\Debug\net7.0\Metod_intro.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\obj\Debug\net7.0\Metod_intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\obj\Debug\net7.0\Metod_intro.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\obj\Debug\net7.0\Metod_intro.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\obj\Debug\net7.0\Metod_intro.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\bin\Debug\net7.0\Metod_intro.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\bin\Debug\net7.0\Metod_intro.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\bin\Debug\net7.0\Metod_intro.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\bin\Debug\net7.0\Metod_intro.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\bin\Debug\net7.0\Metod_intro.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\obj\Debug\net7.0\Metod_intro.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\obj\Debug\net7.0\refint\Metod_intro.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\obj\Debug\net7.0\Metod_intro.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\obj\Debug\net7.0\Metod_intro.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Metod_intro\obj\Debug\net7.0\ref\Metod_intro.dll
