@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\bin\Debug\net7.0\Work_Tekst.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\bin\Debug\net7.0\Work_Tekst.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\bin\Debug\net7.0\Work_Tekst.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\bin\Debug\net7.0\Work_Tekst.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\bin\Debug\net7.0\Work_Tekst.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\obj\Debug\net7.0\Work_Tekst.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\obj\Debug\net7.0\Work_Tekst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\obj\Debug\net7.0\Work_Tekst.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\obj\Debug\net7.0\Work_Tekst.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\obj\Debug\net7.0\Work_Tekst.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\obj\Debug\net7.0\Work_Tekst.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\obj\Debug\net7.0\refint\Work_Tekst.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\obj\Debug\net7.0\Work_Tekst.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\obj\Debug\net7.0\Work_Tekst.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Work_Tekst\obj\Debug\net7.0\ref\Work_Tekst.dll
