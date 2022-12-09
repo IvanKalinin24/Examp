@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\bin\Debug\net7.0\BinArray.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\bin\Debug\net7.0\BinArray.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\bin\Debug\net7.0\BinArray.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\bin\Debug\net7.0\BinArray.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\bin\Debug\net7.0\BinArray.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\obj\Debug\net7.0\BinArray.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\obj\Debug\net7.0\BinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\obj\Debug\net7.0\BinArray.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\obj\Debug\net7.0\BinArray.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\obj\Debug\net7.0\BinArray.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\obj\Debug\net7.0\BinArray.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\obj\Debug\net7.0\refint\BinArray.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\obj\Debug\net7.0\BinArray.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\obj\Debug\net7.0\BinArray.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\BinArray\obj\Debug\net7.0\ref\BinArray.dll
