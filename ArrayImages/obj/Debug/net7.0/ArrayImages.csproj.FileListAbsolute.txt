@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\obj\Debug\net7.0\ArrayImages.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\obj\Debug\net7.0\ArrayImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\obj\Debug\net7.0\ArrayImages.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\obj\Debug\net7.0\ArrayImages.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\obj\Debug\net7.0\ArrayImages.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\bin\Debug\net7.0\ArrayImages.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\bin\Debug\net7.0\ArrayImages.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\bin\Debug\net7.0\ArrayImages.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\bin\Debug\net7.0\ArrayImages.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\bin\Debug\net7.0\ArrayImages.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\obj\Debug\net7.0\ArrayImages.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\obj\Debug\net7.0\refint\ArrayImages.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\obj\Debug\net7.0\ArrayImages.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\obj\Debug\net7.0\ArrayImages.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\ArrayImages\obj\Debug\net7.0\ref\ArrayImages.dll
