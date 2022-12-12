@@ -8,9 +8,8 @@ FillArrayRandomNumbers(numbers);
 PrintArray(numbers);
 
 
-for (int i = 0; i < numbers.Length; i++)
+for (int i = 1; i < numbers.Length; i= i+2)
 {
-    if (i % 2 == 1)
     sum = sum + numbers[i];
     }
 void FillArrayRandomNumbers(int[] array)
