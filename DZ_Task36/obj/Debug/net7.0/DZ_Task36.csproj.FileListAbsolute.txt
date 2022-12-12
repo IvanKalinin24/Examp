@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\bin\Debug\net7.0\DZ_Task36.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\bin\Debug\net7.0\DZ_Task36.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\bin\Debug\net7.0\DZ_Task36.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\bin\Debug\net7.0\DZ_Task36.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\bin\Debug\net7.0\DZ_Task36.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\obj\Debug\net7.0\DZ_Task36.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\obj\Debug\net7.0\DZ_Task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\obj\Debug\net7.0\DZ_Task36.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\obj\Debug\net7.0\DZ_Task36.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\obj\Debug\net7.0\DZ_Task36.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\obj\Debug\net7.0\DZ_Task36.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\obj\Debug\net7.0\refint\DZ_Task36.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\obj\Debug\net7.0\DZ_Task36.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\obj\Debug\net7.0\DZ_Task36.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task36\obj\Debug\net7.0\ref\DZ_Task36.dll
