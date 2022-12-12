@@ -11,8 +11,8 @@ PrintArray(numbers);
 for (int i = 0; i < numbers.Length; i++)
 {
     if (numbers[i] % 2 == 1)
-    sum += numbers[i];
-}
+    sum = numbers[1] + numbers[3];
+    }
 void FillArrayRandomNumbers(int[] array)
 {
     for(int i = 0; i < array.Length; i++)
