@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\obj\Debug\net7.0\Array_sort.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\obj\Debug\net7.0\Array_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\obj\Debug\net7.0\Array_sort.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\obj\Debug\net7.0\Array_sort.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\obj\Debug\net7.0\Array_sort.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\bin\Debug\net7.0\Array_sort.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\bin\Debug\net7.0\Array_sort.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\bin\Debug\net7.0\Array_sort.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\bin\Debug\net7.0\Array_sort.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\bin\Debug\net7.0\Array_sort.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\obj\Debug\net7.0\Array_sort.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\obj\Debug\net7.0\refint\Array_sort.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\obj\Debug\net7.0\Array_sort.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\obj\Debug\net7.0\Array_sort.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Array_sort\obj\Debug\net7.0\ref\Array_sort.dll

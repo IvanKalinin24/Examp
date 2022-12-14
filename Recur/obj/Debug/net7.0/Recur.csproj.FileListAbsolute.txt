@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\bin\Debug\net7.0\Recur.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\bin\Debug\net7.0\Recur.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\bin\Debug\net7.0\Recur.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\bin\Debug\net7.0\Recur.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\bin\Debug\net7.0\Recur.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\obj\Debug\net7.0\Recur.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\obj\Debug\net7.0\Recur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\obj\Debug\net7.0\Recur.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\obj\Debug\net7.0\Recur.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\obj\Debug\net7.0\Recur.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\obj\Debug\net7.0\Recur.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\obj\Debug\net7.0\refint\Recur.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\obj\Debug\net7.0\Recur.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\obj\Debug\net7.0\Recur.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Recur\obj\Debug\net7.0\ref\Recur.dll

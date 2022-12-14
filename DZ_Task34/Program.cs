@@ -1,31 +1,32 @@
-﻿Console.WriteLine("Введите размер массива:  ");
+﻿Console.WriteLine("Введите размер массива");
 int size = Convert.ToInt32(Console.ReadLine());
 int[] numbers = new int[size];
-FillArrayRandomNumbers(numbers);
-Console.WriteLine("массив: ");
-PrintArray(numbers);
 int count = 0;
+FillArrayRandomNumbers(numbers);
+PrintArray(numbers);
 
-for (int z = 0; z < numbers.Length; z++)
-if (numbers[z] % 2 == 0)
-count++;
 
-Console.WriteLine($" {count} чётные");
-
-void FillArrayRandomNumbers(int[] numbers)
+for (int i = 0; i < numbers.Length; i++)
 {
-    for(int i = 0; i < numbers.Length; i++)
+    if (numbers[i] % 2 == 0)
+    count++;
+}
+
+
+Console.WriteLine($" чётные числа в массиве -> {count} ");
+
+void FillArrayRandomNumbers(int[] array)
+{
+    for(int i = 0; i < array.Length; i++)
     {
-        numbers[i] = new Random().Next(100,1000);
+        array[i] = new Random().Next(-100,100);
     }
 }
-void PrintArray(int[] numbers)
+void PrintArray(int[] array)
 {
-    Console.Write("[ ");
-    for(int i = 0; i < numbers.Length; i++)
+    for(int i = 0; i < array.Length; i++)
     {
-        Console.Write(numbers[i] + " ");
+        Console.Write(array[i] + " ");
     }
-    Console.Write("]");
     Console.WriteLine();
 }

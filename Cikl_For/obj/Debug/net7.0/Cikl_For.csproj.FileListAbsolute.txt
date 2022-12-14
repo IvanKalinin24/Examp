@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\bin\Debug\net7.0\Cikl_For.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\bin\Debug\net7.0\Cikl_For.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\bin\Debug\net7.0\Cikl_For.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\bin\Debug\net7.0\Cikl_For.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\bin\Debug\net7.0\Cikl_For.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\obj\Debug\net7.0\Cikl_For.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\obj\Debug\net7.0\Cikl_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\obj\Debug\net7.0\Cikl_For.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\obj\Debug\net7.0\Cikl_For.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\obj\Debug\net7.0\Cikl_For.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\obj\Debug\net7.0\Cikl_For.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\obj\Debug\net7.0\refint\Cikl_For.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\obj\Debug\net7.0\Cikl_For.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\obj\Debug\net7.0\Cikl_For.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Cikl_For\obj\Debug\net7.0\ref\Cikl_For.dll

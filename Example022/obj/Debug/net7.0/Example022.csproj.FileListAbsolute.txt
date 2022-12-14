@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\obj\Debug\net7.0\Example022.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\obj\Debug\net7.0\Example022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\obj\Debug\net7.0\Example022.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\obj\Debug\net7.0\Example022.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\obj\Debug\net7.0\Example022.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\bin\Debug\net7.0\Example022.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\bin\Debug\net7.0\Example022.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\bin\Debug\net7.0\Example022.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\bin\Debug\net7.0\Example022.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\bin\Debug\net7.0\Example022.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\obj\Debug\net7.0\Example022.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\obj\Debug\net7.0\refint\Example022.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\obj\Debug\net7.0\Example022.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\obj\Debug\net7.0\Example022.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Example022\obj\Debug\net7.0\ref\Example022.dll

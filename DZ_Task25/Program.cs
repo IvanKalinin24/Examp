@@ -2,9 +2,9 @@
 //3, 5 -> 243 (3⁵)
 //2, 4 -> 16
 
-Console.WriteLine("Ввидите число A: ");
+Console.WriteLine("Введите число A: ");
 int numberA = int.Parse(Console.ReadLine());
-Console.WriteLine("Ввидите число B: ");
+Console.WriteLine("Введите число B: ");
 int numberB = int.Parse(Console.ReadLine());
 
 int i = 1;

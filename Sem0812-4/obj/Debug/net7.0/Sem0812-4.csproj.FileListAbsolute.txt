@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\obj\Debug\net7.0\Sem0812-4.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\obj\Debug\net7.0\Sem0812-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\obj\Debug\net7.0\Sem0812-4.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\obj\Debug\net7.0\Sem0812-4.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\obj\Debug\net7.0\Sem0812-4.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\bin\Debug\net7.0\Sem0812-4.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\bin\Debug\net7.0\Sem0812-4.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\bin\Debug\net7.0\Sem0812-4.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\bin\Debug\net7.0\Sem0812-4.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\bin\Debug\net7.0\Sem0812-4.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\obj\Debug\net7.0\Sem0812-4.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\obj\Debug\net7.0\refint\Sem0812-4.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\obj\Debug\net7.0\Sem0812-4.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\obj\Debug\net7.0\Sem0812-4.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\Sem0812-4\obj\Debug\net7.0\ref\Sem0812-4.dll
