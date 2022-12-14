@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\obj\Debug\net7.0\DZ_Task54.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\obj\Debug\net7.0\DZ_Task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\obj\Debug\net7.0\DZ_Task54.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\obj\Debug\net7.0\DZ_Task54.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\obj\Debug\net7.0\DZ_Task54.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\bin\Debug\net7.0\DZ_Task54.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\bin\Debug\net7.0\DZ_Task54.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\bin\Debug\net7.0\DZ_Task54.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\bin\Debug\net7.0\DZ_Task54.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\bin\Debug\net7.0\DZ_Task54.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\obj\Debug\net7.0\DZ_Task54.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\obj\Debug\net7.0\refint\DZ_Task54.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\obj\Debug\net7.0\DZ_Task54.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\obj\Debug\net7.0\DZ_Task54.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\ProgNew\Exa\DZ_Task54\obj\Debug\net7.0\ref\DZ_Task54.dll
