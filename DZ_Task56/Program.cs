@@ -6,7 +6,7 @@ using static System.Console;
 
 Clear();
 
-int[,] array = new int [4,4];
+int[,] array = new int [6,4];
 FillArrayRandomNumbers(array);
 PrintArray(array);
 StringMinSum(array);
